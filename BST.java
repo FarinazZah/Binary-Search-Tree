@@ -4,19 +4,6 @@ import java.util.NoSuchElementException;
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.LinkedList;
-
-/**
- * Your implementation of a BST.
- *
- * @author Farinaz Zahiri
- * @version 1.0
- * @userid fzahiri6
- * @GTID 903687032
- *
- * Collaborators: LIST ALL COLLABORATORS YOU WORKED WITH HERE
- *
- * Resources: LIST ALL NON-COURSE RESOURCES YOU CONSULTED HERE
- */
 public class BST<T extends Comparable<? super T>> {
 
     /*
